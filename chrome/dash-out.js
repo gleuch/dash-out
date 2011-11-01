@@ -124,10 +124,10 @@ function dash_out_start($_) {
 
 
 
-/* Let start blocking the #winning */
+/* Lets dash! */
 try {
-  if (!jQuery('body').hasClass('tigerblood')) {
-    jQuery('body').addClass('tigerblood');
+  if (!jQuery('body').hasClass('dash_ouuuut')) {
+    jQuery('body').addClass('dash_ouuuut');
     dash_out_start(jQuery);
   }
 } catch(err) {}
