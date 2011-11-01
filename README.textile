@@ -21,7 +21,7 @@ Current version is at *1.0.0*.
 h2. Credits
 
 Based on the "Shaved Bieber":http://github.com/gleuch/shaved-bieber and "Ctrl+F'd":http://github.com/gleuch/ctrl-f-d projects by "Greg Leuch":http://www.gleuch.com.
-Special thanks for idea brainstorming to "Chris Menning":http://twitter.com/straythenomad", and the "FAT Lab crew":http://fffff.at for their support!
+Special thanks for idea brainstorming to "Chris Menning":http://twitter.com/straythenomad, and the "FAT Lab crew":http://fffff.at for their support!
 
 
 h2. License
