@@ -1,0 +1,40 @@
+h1. Dash Out (Kardashain Blocker)
+
+Firefox Add-on, Chrome Extension to white-out the over-produced reality of the Kardashians (as produced by Ryan Seacrest).
+
+   _"White is actually one of my favorite colors. I have a white car. I love white." -- Kim_
+
+White cars, white weddings... so much white, we should even her make her name white on the Internet.
+
+
+by Greg Leuch ("@gleuch":http://twitter.com/gleuch | "http://gleuch.com":http://gleuch.com)
+
+
+h2. Install
+
+Current version is at *1.0.0*.
+
+  * "Firefox 1.0.0 download":http://addons.gleuch.com/dash-out/downloads/firefox
+  * "Chrome 1.0.0 download":http://addons.gleuch.com/dash-out/downloads/chrome
+
+
+h2. Credits
+
+Based on the "Shaved Bieber":http://github.com/gleuch/shaved-bieber and "Ctrl+F'd":http://github.com/gleuch/ctrl-f-d projects by "Greg Leuch":http://www.gleuch.com.
+Special thanks for idea brainstorming to "Chris Menning":http://twitter.com/straythenomad", and the "FAT Lab crew":http://fffff.at for their support!
+
+
+h2. License
+
+MIT License "http://creativecommons.org/licenses/MIT":http://creativecommons.org/licenses/MIT. Not for commercial use.
+
+
+h2. Changelog
+
+
+h4. 1.0.0 (31 Oct 2011)
+
+Created from "Shaved Bieber":http://fffff.at/shaved-bieber & "Tinted Sheen":http://fffff.at/tinted-sheen projects. Tested & released on "FAT Lab":http://fffff.at/dash-out for Firefox & Chrome.
+
+
+*"leuch out!"*
