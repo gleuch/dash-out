@@ -117,7 +117,7 @@ function dash_out_start($_) {
       $_.dash_out('body', '#FFFFFF');
     }
   }, 1000);
-}
+};
 
 
 

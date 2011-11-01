@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+  <Description about="urn:mozilla:install-manifest">
+    <em:id>dash-out@gleuch.com</em:id>
+    <em:name>Dash-Out (Kardashian Blocker)</em:name>
+    <em:version>1.0.0</em:version>
+
+    <em:updateKey>MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCmxeavjC+mw20z2G9HuSigQqwrmmAUMwyZEegP4Zn3XVOe+Ob+w6wvkWcJPnL1rrlNF3bv1JoI3RHLO39tZTKJT71SUhB7jEKt7bTOi4btPqpUS2zAAcU+pvSwp2BytA9wnEr5Iv05e/iHFuYnxhtdfFEvRsvwfnxTnWUHYRoVeQIDAQAB</em:updateKey>
+    <em:updateURL>http://addons.gleuch.com/dash-out/updates/firefox</em:updateURL>
+    <em:updateInfoURL>http://addons.gleuch.com/dash-out/updates/firefox/info</em:updateInfoURL>
+
+    <em:creator>Greg Leuch</em:creator>
+    <em:contributor>Greg Leuch</em:contributor>
+    <em:description>White-out the over-produced reality of the Kardashians.</em:description>
+    <em:homepageURL>http://fffff.at/dash-out</em:homepageURL>
+    <em:iconURL>chrome://dash-out/content/dash-out64.png</em:iconURL>
+
+    <em:targetApplication>
+      <Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id> <!-- firefox -->
+        <em:minVersion>4.0.0</em:minVersion>
+        <em:maxVersion>9.0.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+  </Description>
+</RDF>

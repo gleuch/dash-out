@@ -1,0 +1,2 @@
+content				dash-out																content/																		contentaccessible=yes
+overlay				chrome://browser/content/browser.xul		chrome://dash-out/content/overlay.xul
